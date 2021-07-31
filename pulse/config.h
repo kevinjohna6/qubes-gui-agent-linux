@@ -482,7 +482,7 @@
 #define PACKAGE_NAME "pulseaudio"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "pulseaudio 0.9.21"
+#define PACKAGE_STRING "pulseaudio 15.0"
 
 /* Define to the one symbol short name of this package. */
 #define PACKAGE_TARNAME "pulseaudio"
@@ -491,7 +491,7 @@
 #define PACKAGE_URL ""
 
 /* Define to the version of this package. */
-#define PACKAGE_VERSION "0.9.21"
+#define PACKAGE_VERSION "15.0"
 
 /* Access group */
 #define PA_ACCESS_GROUP "pulse-access"
@@ -558,7 +558,7 @@
 
 
 /* Version number of package */
-#define VERSION "0.9.21"
+#define VERSION "15.0"
 
 /* Define WORDS_BIGENDIAN to 1 if your processor stores words with the most
    significant byte first (like Motorola and SPARC, unlike Intel). */
